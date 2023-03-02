@@ -1,4 +1,5 @@
-import { NextIntlProvider } from 'next-intl'
+import { NextIntlProvider } from "next-intl";
+import "./global.css";
 
 export default function App({ Component, pageProps }) {
   return (
@@ -8,9 +9,9 @@ export default function App({ Component, pageProps }) {
       formats={{
         dateTime: {
           short: {
-            day: 'numeric',
-            month: 'short',
-            year: 'numeric',
+            day: "numeric",
+            month: "short",
+            year: "numeric",
           },
         },
       }}
@@ -25,5 +26,5 @@ export default function App({ Component, pageProps }) {
     >
       <Component {...pageProps} />
     </NextIntlProvider>
-  )
+  );
 }
