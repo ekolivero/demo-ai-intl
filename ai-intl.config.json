@@ -1,5 +1,5 @@
 {
   "translationsPath": "messages",
   "defaultLocale": "en-US",
-  "locales": []
+  "locales": ["it-IT", "fr-FR", "de-DE", "ja-JP", "ru-RU"]
 }

@@ -1,12 +1,7 @@
 {
   "Index": {
-    "title": "{ project } - The best way to translate your content",
-    "description": "This project use <code>ai-intl</code> to generate translations for every language.",
-    "downloads": "The project is currently getting { downloads } downloads per week.",
-    "about": "It let's you create translations in minutes, speeding up your development process.",
-    "interpolation": "As you can see it supports interpolation of variables",
-    "use": "Add a new language to <code>ai-intl.config.json</code> and <code>next.config.json</code>",
-    "useAiIntl": "Then run <code>ai-intl translate</code> and wait for the translations",
-    "result": "Then change the language in the dropdown and see the amazing result"
+    "title": "{ project } - The OSS project to manage translations",
+    "description": "A simple and easy to use translation management system, it works for any project, any language, any platform. It will manage your translations and keep them up to date.",
+    "button": "Visit { project } on GitHub"
   }
 }

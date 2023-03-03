@@ -2,15 +2,10 @@ import Navigation from "./Navigation";
 
 export default function PageLayout({ children, title }) {
   return (
-    <div className="flex flex-col p-10 max-w-md m-auto">
+    <div className="flex flex-col p-10 m-auto gap-10">
       <Navigation />
-      <div className="mt-10 flex justify-center flex-col">
-        <a
-          href="google.com"
-          className="text-sky-500 text-2xl hover:cursor-pointer flex justify-center text-center mb-2"
-        >
-          {title}
-        </a>
+      <div className="gap-10 flex justify-center flex-col">
+        <h1 className="text-6xl text-black font-bold text-center">{title}</h1>
         {children}
       </div>
     </div>
