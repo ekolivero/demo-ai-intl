@@ -2,6 +2,7 @@
   "Index": {
     "title": "{ project } - Le projet OSS pour gérer les traductions",
     "description": "Un système simple et facile à utiliser pour la gestion des traductions qui fonctionne pour tout projet, toute langue et toute plateforme. Il gérera vos traductions et les maintiendra à jour.",
-    "button": "Visitez { project } sur GitHub"
+    "button": "Visitez { project } sur GitHub",
+    "newKey": "Si vous aimez le projet, laissez une étoile sur GitHub"
   }
 }

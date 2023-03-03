@@ -2,6 +2,7 @@
   "Index": {
     "title": "{ project } - 翻訳の管理に利用できるOSSプロジェクト",
     "description": "どんなプロジェクト、言語、プラットフォームにも対応したシンプルで使いやすい翻訳管理システムです。翻訳を管理し、最新に保っています。",
-    "button": "{ project }のGitHubページへ"
+    "button": "{ project }のGitHubページへ",
+    "newKey": "プロジェクトが気に入った場合は、GitHubでスターをお願いします"
   }
 }

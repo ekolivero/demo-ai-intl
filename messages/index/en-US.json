@@ -2,6 +2,7 @@
   "Index": {
     "title": "{ project } - The OSS project to manage translations",
     "description": "A simple and easy to use translation management system, it works for any project, any language, any platform. It will manage your translations and keep them up to date.",
+    "newKey": "If you like the project leave a star on GitHub",
     "button": "Visit { project } on GitHub"
   }
 }

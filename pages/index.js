@@ -11,6 +11,7 @@ export default function Index() {
     <PageLayout title={t("title", { project: "AI-Intl" })}>
       <div className="text-gray-500 font-sans text-2xl text-center flex flex-col gap-5">
         <p>{t("description")}</p>
+        <p>{t("newKey")}</p>
       </div>
       <Link href="www.google.com" className="w-64 m-auto">
         <button className="bg-black text-white py-2 px-4 rounded inline-flex">
